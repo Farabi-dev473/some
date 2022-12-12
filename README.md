@@ -2,4 +2,5 @@
 
 # Hello World
 
-- Golang
+- Go
+- JavaScript
