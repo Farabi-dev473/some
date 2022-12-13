@@ -1,3 +1,1 @@
-# some
-
-- Golang
+# Hello World
