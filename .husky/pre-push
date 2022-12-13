@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-git commit -am 'auto-commit'
+git add .
+git commit -m 'auto'
 node index.js
