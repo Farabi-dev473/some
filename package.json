@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Farabi-dev473/some#readme",
   "devDependencies": {
     "husky": "^8.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
